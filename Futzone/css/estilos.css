@@ -1,0 +1,83 @@
+*{
+    font-family: Charter, Georgia, serif;
+}
+.first{
+    color: black;
+    text-align: center;
+    margin-top: 1px;
+}
+
+a{
+    color: black;
+}
+.partidos{
+    background-color: rgb(27, 114, 0);
+    border-bottom: solid 1px rgb(39, 168, 0);
+    border-right: solid 1px rgb(39, 168, 0);
+    border-left: solid 1px rgb(39, 168, 0);
+    border-top: 0;
+}
+
+.margenhr{
+    margin:5px;
+}
+.categorias{
+    background-color: rgb(27, 114, 0);
+    border: solid 1px rgb(39, 168, 0);
+}
+
+.letrachica{
+    font-size: 12px;
+}
+.parrafos{
+    font-size: 16px;
+}
+
+.titulos{
+    font-size: 31px;
+    color: black;
+}
+
+body{
+    background-color:white;
+    font-family: serif;
+    font-size: 20px;
+}
+.icono{
+    height: 24px;
+    width: 24px;
+}
+.logo{
+    font-size: 30px;
+    font-family: fantasy;
+}
+.margencero{
+    margin:0;
+}
+
+
+.espaciobarranav{
+    margin-top: 16px;
+}
+.buenaimagen{
+    width: 100%;
+    height: auto;
+}
+
+table, td, tr, th {
+    text-align: center;
+    border: 1px solid gold;
+    border-collapse: collapse;
+}
+
+table{
+    width: 80%;
+    margin: 0 auto;
+}
+
+button{
+    background-color: rgb(63, 63, 65);
+    color: gold;
+    border: 0;
+}
+
